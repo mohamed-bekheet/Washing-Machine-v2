@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "io.h": "c",
+        "interrupt.h": "c",
+        "lcd20x4.h": "c",
+        "time.h": "c",
+        "TEST_STATEMACHINE_LINKED_structs.C": "cpp"
+    }
+}
